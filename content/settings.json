@@ -4,7 +4,7 @@
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
     "title": "Milanoi",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "Data, Code, Technology.",
     "author": "Konstantin Münster",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
@@ -13,16 +13,16 @@
       "github": "https://github.com/milanoi",
       "medium": "https://konstantinmuenster.medium.com",
       "linkedin": "https://www.linkedin.com/in/sonia-milanoi/",
-      "mail": "mailto:mail@konstantin.digital"
+      "mail": "mailto:himilanoi@gmail.com"
     }
   },
   "siteConfiguration": {
     "logo": { "text": "Milanoi" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
+        { "label": "Gear", "url": "/#gear" },
+        { "label": "About", "url": "/#about" },
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {
